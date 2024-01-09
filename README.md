@@ -1,5 +1,5 @@
 # Data Scientist
-** Technical Skills: Python, SQL, Power BI, ML/DL**
+**Technical Skills: Python, SQL, Power BI, ML/DL**
 ### Education
  - Mechatronics Engineering  |  Facultad de Ingeniería  |  Universidad Nacional de Asunción *(December 2023)*
  - Diploma in Power BI  |  Universidad Comunera *(March 2023)*
