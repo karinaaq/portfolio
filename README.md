@@ -19,7 +19,7 @@
 - Employed the SCRUM methodology for efficient project development and management.
 
 ### Projects
-**1. Parking Spaces Counter:** This Python code utilizes the OpenCV library to perform parking spot occupancy detection in a video. ![Code here](https://github.com/karinaaq/parking-space-counter)
+**1. Parking Spaces Counter:** This Python code utilizes the OpenCV library to perform parking spot occupancy detection in a video. [Code here](https://github.com/karinaaq/parking-space-counter)
 
 
 ![output](https://github.com/karinaaq/portfolio/assets/67199946/2e4336e3-426f-496a-bd3d-86b3638d775a)
