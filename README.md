@@ -24,4 +24,4 @@
 
 ![output](https://github.com/karinaaq/portfolio/assets/67199946/2e4336e3-426f-496a-bd3d-86b3638d775a)
 
-2. 
+**2. Virtual assistant for Paraguay's Development Plan 2030:** Answers questions about the Paraguay's development Plan 2030 using LLM. [Code here](https://github.com/karinaaq/IA-plan-desarrollo-py) 
